@@ -75,7 +75,7 @@ const CoachingPrograms = () => {
           </div>
 
           {/* Intro */}
-          <p className="max-w-[400px] font-['Manrope'] text-[15px] font-light leading-[1.8] text-white/65 lg:pb-1 lg:text-[12px]">
+          <p className="max-w-[400px] font-['Manrope'] text-[17px] font-light leading-[1.8] text-white/65 lg:pb-1 lg:text-[12px]">
             Support for wherever you are — whether you&apos;re navigating a
             personal transition, stepping into leadership, or driving change
             within your organization.

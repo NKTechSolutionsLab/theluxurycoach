@@ -6,7 +6,7 @@ const navLinks = [
   { name: "About", href: "#about" },
   { name: "Coaching", href: "#coaching" },
   { name: "Programs", href: "#programs" },
-  { name: "The Book", href: "#book" },
+  { name: "Corporate Fables", href: "#book" },
   { name: "Platforms", href: "#platforms" },
   { name: "For Organizations", href: "#organizations" },
   { name: "Contact", href: "#contact" },
