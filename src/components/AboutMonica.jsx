@@ -142,7 +142,7 @@ const AboutMonica = () => {
                         {role.title}
                       </h3>
 
-                      <p className="mt-1.5 max-w-[190px] font-['Manrope'] text-[11px] leading-[1.55] text-[#171514]/55">
+                      <p className="mt-1.5 max-w-[190px] font-['Manrope'] text-[13px] leading-[1.55] text-[#171514]/55">
                         {role.description}
                       </p>
                     </div>
