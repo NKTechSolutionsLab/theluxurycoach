@@ -91,7 +91,7 @@ const AboutMonica = () => {
           </h2>
 
           {/* Body */}
-          <p className="mt-7 max-w-[570px] font-['Manrope'] text-[15px] font-light leading-[1.85] text-[#171514]/70 sm:text-[13px]">
+          <p className="mt-7 max-w-[570px] font-['Manrope'] text-[13px] lg:text-[17px] font-light leading-[1.85] text-[#171514]/70 ">
             Monica Paque is a coach, author, and speaker dedicated to
             helping individuals and organizations create meaningful,
             lasting change. Through practical tools, real conversations,
@@ -138,7 +138,7 @@ const AboutMonica = () => {
 
                     {/* Text */}
                     <div>
-                      <h3 className="font-['Cormorant_Garamond'] text-[19px] font-semibold leading-none">
+                      <h3 className="font-['Cormorant_Garamond'] text-[22px] font-semibold leading-none">
                         {role.title}
                       </h3>
 

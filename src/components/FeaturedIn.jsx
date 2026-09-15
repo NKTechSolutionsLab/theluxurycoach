@@ -17,7 +17,7 @@ const FeaturedIn = () => {
 
         {/* Label */}
         <div className="hidden shrink-0 border-r border-[#171514]/15 pr-8 md:block lg:pr-10">
-          <p className="font-['Manrope'] text-[9px] font-medium uppercase tracking-[0.28em] text-[#9A8667]">
+          <p className="font-['Manrope'] text-[11px] font-medium uppercase tracking-[0.28em] text-[#9A8667]">
             As Featured In
           </p>
         </div>
